@@ -1,0 +1,53 @@
+{
+    "portfolio": [
+      
+        {
+            "cover": "./portfolio_images/etchasketch.png",
+            "title": "Etch - A - Sketch",
+            "description": "JavaScript",
+            "url": "https://britneyio.github.io/etchasketch/"
+        },
+        {
+            "cover": "./portfolio_images/imageprocessor.png",
+            "title": "BornFire 1.0 - Image Processor",
+            "description": "Java, Java Swing,  JUnit Testing",
+            "url": "/portfolio/contact"
+        },
+        {
+            "cover": "./portfolio_images/maze.png",
+            "title": "Breadth First and Depth First Maze Search",
+            "description": "Java",
+            "url": "/portfolio/contact"
+        },
+        {
+            "cover": "./portfolio_images/mentalhealthapp.png",
+            "title": "Companion - Mental Health Check in App",
+            "description": "ReactNative, Adobe XD for UI/UX design",
+            "url": "https://devpost.com/software/companion-28y96m"
+        },
+        {
+            "cover": "./portfolio_images/time.png",
+            "title": "Time: the best reaction testing game",
+            "description": "JavaScript, HTML",
+            "url": "need to add to github"
+        },
+        {
+            "cover": "./portfolio_images/flooditworld.png",
+            "title": "FloodItWorld Remake",
+            "description": "Java",
+            "url": "/portfolio/contact"
+        },
+        {
+            "cover": "./portfolio_images/meteormania.png",
+            "title": "Meteor Mania: Educational Learning Game",
+            "description": "JavaScript, HTML",
+            "url": "https://devpost.com/software/meteor-mania"
+        },
+        {
+            "cover": "./portfolio_images/rockpaperscissors.png",
+            "title": "Rock, Paper, Scissors",
+            "description": "HTML",
+            "url": "https://britneyio.github.io/rockpaperscissors/"
+        }
+    ]
+}

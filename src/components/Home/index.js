@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import LogoTitle from '../../assets/images/logo-s.png'
+import LogoTitle from '../../assets/images/logo-b.png'
 import {Link} from 'react-router-dom';
 import './index.scss';
 import AnimatedLetters from '../AnimatedLetters';
@@ -7,7 +7,7 @@ import AnimatedLetters from '../AnimatedLetters';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
-    const nameArray = ['B', 'r', 'i', 't','n','e','y'];
+    const nameArray = ['r', 'i', 't','n','e','y'];
     const jobArray = ['S', 'o', 'f','t','w','a','r','e',' ','E','n','g','i','n','e','e','r','.'];
 
     useEffect(() => {
@@ -37,7 +37,7 @@ const Home = () => {
                     idx={22} />
                      </h1>
                      <h2>Full Stack Developer / Blogger</h2>
-                     <Link to="/contact" className="flat-button">CONTACT ME</Link>
+                     <Link to="/portfolio/contact" className="flat-button">CONTACT ME</Link>
             </div>
         </div>
     )
